@@ -1,0 +1,1 @@
+{"version":3,"file":"add-context-isolation.js","sourceRoot":"","sources":["../../../../../../packages/nx-electron/src/migrations/update-10-0-0/add-context-isolation.ts"],"names":[],"mappings":";;AAEA,SAAwB,MAAM;IAC5B,OAAO,CAAC,GAAG,CAAC,gGAAgG,CAAC,CAAC;IAC9G,OAAO,CAAC,GAAG,CAAC,2GAA2G,CAAC,CAAC;IAEzH,OAAO;AACT,CAAC;AALD,yBAKC"}
