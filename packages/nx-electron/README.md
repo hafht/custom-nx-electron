@@ -13,7 +13,6 @@ Electron builders and schematics for Nrwl Nx platform.
 [![Star this repo](https://img.shields.io/github/stars/bennymeg/nx-electron?style=social)](https://github.com/bennymeg/nx-electron)
 
 
-
 </div>
 
 <hr></br>

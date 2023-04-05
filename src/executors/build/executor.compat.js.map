@@ -1,1 +1,0 @@
-{"version":3,"file":"executor.compat.js","sourceRoot":"","sources":["../../../../../../packages/nx-electron/src/executors/build/executor.compat.ts"],"names":[],"mappings":";;;AAAA,yCAAkE;AAElE,kEAAkC;AAElC,SAAS,eAAe,CAAC,OAAY,EAAE,OAAwB;IAEvD,OAAO,IAAA,kBAAQ,EAAC,OAAO,EAAE,OAAO,CAAC,CAAC;AAC1C,CAAC;AAED,kBAAe,IAAA,0BAAiB,EAAC,eAAe,CAAC,CAAC"}

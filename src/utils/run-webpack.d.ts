@@ -1,3 +1,0 @@
-import webpack from 'webpack';
-import { Observable } from 'rxjs';
-export declare function runWebpack(config: webpack.Configuration): Observable<any>;
